@@ -1,6 +1,7 @@
 print('I am giving demo')
 print('pizza')
 print ('burger')
+print('samosa')
 print('Abc')
 print('123')
 if 5>2:
